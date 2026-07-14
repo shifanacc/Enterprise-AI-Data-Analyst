@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Enterprise AI Data Analyst
+#  Enterprise AI Data AnalysT
 
 ### Deep Learning–Based Business Analytics using Transformer & Natural Language Processing
 

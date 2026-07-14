@@ -35,6 +35,9 @@ or
 The system automatically understands the query, performs business analysis, generates visualizations, provides AI insights, and allows exporting reports.
 
 ---
+# Live Demo
+
+Streamlit Application: https://enterprise-ai-data-analyst.streamlit.app/
 
 #  Key Features
 
